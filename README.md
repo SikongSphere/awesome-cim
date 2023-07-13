@@ -1,5 +1,9 @@
 # Awesome CIM
 
+<p align="center">
+  <a href="sikongsphere.org"><img align="center" width="100%" src="img/sikongsphere×sikong.png"></img></a>
+</p>
+
 ## Data Processing
 
 - [GDAL](https://github.com/OSGeo/gdal): Translator library for raster and vector geospatial data formats
